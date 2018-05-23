@@ -1,0 +1,81 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: P:\Build Trivia Game\TriviaGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading P:\Build Trivia Game\TriviaGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading P:\Build Trivia Game\TriviaGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.089 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: P:\Build Trivia Game\TriviaGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: P:\Build Trivia Game\TriviaGame_Data\Managed\System.dll (this message is harmless)
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.734144 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 232.
+Total: 0.312832 ms (FindLiveObjects: 0.027648 ms CreateObjectMapping: 0.008960 ms MarkObjects: 0.269056 ms  DeleteObjects: 0.006400 ms)
+
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.358400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 232.
+Total: 0.206592 ms (FindLiveObjects: 0.015104 ms CreateObjectMapping: 0.007424 ms MarkObjects: 0.180736 ms  DeleteObjects: 0.002816 ms)
+
+incorrect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
